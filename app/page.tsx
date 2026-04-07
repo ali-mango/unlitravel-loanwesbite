@@ -303,15 +303,11 @@ export default function Home() {
                 <PhoneCall className="text-emerald-700" />
                 <p className="text-lg font-bold text-black">Contact Us</p>
               </div>
-              <p className="mt-4 text-sm leading-7 text-black/65">
-                Replace this with your actual contact number, email address, and
-                office details.
-              </p>
               <p className="mt-2 text-sm text-black/70">
-                Email: your@email.com
+                Email: alysaemilio@gmail.com
               </p>
               <p className="mt-1 text-sm text-black/70">
-                Phone: +63 9XX XXX XXXX
+                Phone: +63 951 361 5137
               </p>
             </div>
           </div>
